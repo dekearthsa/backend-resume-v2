@@ -1,0 +1,22 @@
+{
+  "name": "service_payment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "omise": "^0.12.1",
+    "whatwg-url": "^14.1.0"
+  },
+  "devDependencies": {
+    "@types/json-schema": "^7.0.15",
+    "@types/node": "^22.10.1",
+    "@types/whatwg-url": "^13.0.0"
+  }
+}
